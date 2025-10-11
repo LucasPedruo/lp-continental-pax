@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --blue-900 : #03014A;
+    --blue-600: #0e0b63;
+    --blue-100: #EAF4FF;
+    --neutral-900: #12202B;
+    --neutral-100: #F5F2EE;
+    --neutral: #696F73;
+    --green: #00BB9A
+    --white: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+}
