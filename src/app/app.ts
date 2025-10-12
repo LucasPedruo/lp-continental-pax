@@ -85,19 +85,17 @@ export class App {
       titulo: 'Quanto custa por mês?',
       aberto: false,
       texto: `
-      O valor do plano é baseado na idade e número de pessoas que irão entrar no plano. 
-      Porém, possuímos planos individuais que partem do valor de R$25.
-      Para grandes grupos fechados(empresas, associações, igrejas), esse valor ainda pode ser ainda mais reduzido.`
+      O valor varia de acordo com as ideias e com o número de participantes do plano. Fale com nossa equipe para saber mais detalhes.`
     },
     {
       titulo: 'O atendimento é só na minha cidade?',
       aberto: false,
-      texto: 'Atendemos em tdo o Brasil e sepultamos no seu munícipio de residência; '
+      texto: 'Atendemos em todo o Brasil e sepultamos no seu munícipio de residência; '
     },
     {
       titulo: 'Como faço para contratar o plano?',
       aberto: false,
-      texto: 'É simples e fácil, precisamos de apenas algumas informações básicas suas.'
+      texto: 'É simples e fácil, precisamos de apenas algumas informações básicas sua.'
     }
   ]
 
